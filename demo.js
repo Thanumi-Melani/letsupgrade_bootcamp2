@@ -8,6 +8,8 @@ const add=counter();
 add();
 add();
 add();
-function p2(){
+function Path2D(){
     console.log("This is p2 here");
 }
+
+console.log("This is my practice work that I am performing.")
