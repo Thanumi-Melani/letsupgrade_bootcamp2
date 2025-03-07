@@ -8,6 +8,6 @@ const add=counter();
 add();
 add();
 add();
-fuction Path2D(){
+function p2(){
     console.log("This is p2 here");
 }
